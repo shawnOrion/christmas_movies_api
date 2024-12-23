@@ -1,0 +1,1750 @@
+[
+    {
+        "title": "Love Actually",
+        "thumbnail": {
+            "trending": {
+                "small": null,
+                "large": null
+            },
+            "regular": {
+                "small": null,
+                "medium": "https://m.media-amazon.com/images/M/MV5BNThkNjgxNGQtOTIxMy00ZTFmLWIwMDItYzE5YzM3ZDMzNDE3XkEyXkFqcGdeQXVyMTUyNjc3NDQ4._V1_UY209_CR3,0,140,209_AL_.jpg",
+                "large": null
+            }
+        },
+        "year": 2003,
+        "category": "Movie",
+        "rating": "R",
+        "isBookmarked": false,
+        "isTrending": false
+    },
+    {
+        "title": "Home Alone",
+        "thumbnail": {
+            "trending": {
+                "small": null,
+                "large": null
+            },
+            "regular": {
+                "small": null,
+                "medium": "https://m.media-amazon.com/images/M/MV5BMzFkM2YwOTQtYzk2Mi00N2VlLWE3NTItN2YwNDg1YmY0ZDNmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY209_CR0,0,140,209_AL_.jpg",
+                "large": null
+            }
+        },
+        "year": 1990,
+        "category": "Movie",
+        "rating": "PG",
+        "isBookmarked": false,
+        "isTrending": false
+    },
+    {
+        "title": "National Lampoon's Christmas Vacation",
+        "thumbnail": {
+            "trending": {
+                "small": null,
+                "large": null
+            },
+            "regular": {
+                "small": null,
+                "medium": "https://m.media-amazon.com/images/M/MV5BMGZkMWQ2MzMtYTkxYS00OThmLWI0ZTQtNmY0ZTkyY2E4MjliXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY209_CR0,0,140,209_AL_.jpg",
+                "large": null
+            }
+        },
+        "year": 1989,
+        "category": "Movie",
+        "rating": "PG-13",
+        "isBookmarked": false,
+        "isTrending": false
+    },
+    {
+        "title": "Elf",
+        "thumbnail": {
+            "trending": {
+                "small": null,
+                "large": null
+            },
+            "regular": {
+                "small": null,
+                "medium": "https://m.media-amazon.com/images/M/MV5BMzUxNzkzMzQtYjIxZC00NzU0LThkYTQtZjNhNTljMTA1MDA1L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY209_CR0,0,140,209_AL_.jpg",
+                "large": null
+            }
+        },
+        "year": 2003,
+        "category": "Movie",
+        "rating": "PG",
+        "isBookmarked": false,
+        "isTrending": false
+    },
+    {
+        "title": "How the Grinch Stole Christmas",
+        "thumbnail": {
+            "trending": {
+                "small": null,
+                "large": null
+            },
+            "regular": {
+                "small": null,
+                "medium": "https://m.media-amazon.com/images/M/MV5BNWNiNTczNzEtMjQyZC00MjFmLTkzMDMtODk4ZGMyZmE0N2E4XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY209_CR0,0,140,209_AL_.jpg",
+                "large": null
+            }
+        },
+        "year": 2000,
+        "category": "Movie",
+        "rating": "PG",
+        "isBookmarked": false,
+        "isTrending": false
+    },
+    {
+        "title": "The Grinch",
+        "thumbnail": {
+            "trending": {
+                "small": null,
+                "large": null
+            },
+            "regular": {
+                "small": null,
+                "medium": "https://m.media-amazon.com/images/M/MV5BYmE5Yjg0MzktYzgzMi00YTFiLWJjYTItY2M5MmI1ODI4MDY3XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX140_CR0,0,140,209_AL_.jpg",
+                "large": null
+            }
+        },
+        "year": 2018,
+        "category": "Movie",
+        "rating": "PG",
+        "isBookmarked": false,
+        "isTrending": false
+    },
+    {
+        "title": "Die Hard",
+        "thumbnail": {
+            "trending": {
+                "small": null,
+                "large": null
+            },
+            "regular": {
+                "small": null,
+                "medium": "https://m.media-amazon.com/images/M/MV5BZjRlNDUxZjAtOGQ4OC00OTNlLTgxNmQtYTBmMDgwZmNmNjkxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX140_CR0,0,140,209_AL_.jpg",
+                "large": null
+            }
+        },
+        "year": 1988,
+        "category": "Movie",
+        "rating": "R",
+        "isBookmarked": false,
+        "isTrending": false
+    },
+    {
+        "title": "Home Alone 2: Lost in New York",
+        "thumbnail": {
+            "trending": {
+                "small": null,
+                "large": null
+            },
+            "regular": {
+                "small": null,
+                "medium": "https://m.media-amazon.com/images/M/MV5BNDI1MzM0Y2YtYmIyMS00ODE3LTlhZjEtZTUyNmEzMTNhZWU5XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY209_CR0,0,140,209_AL_.jpg",
+                "large": null
+            }
+        },
+        "year": 1992,
+        "category": "Movie",
+        "rating": "PG",
+        "isBookmarked": false,
+        "isTrending": false
+    },
+    {
+        "title": "The Polar Express",
+        "thumbnail": {
+            "trending": {
+                "small": null,
+                "large": null
+            },
+            "regular": {
+                "small": null,
+                "medium": "https://m.media-amazon.com/images/M/MV5BMTM1NTU0NTE4MV5BMl5BanBnXkFtZTcwMTQ0MjEzMw@@._V1_UY209_CR0,0,140,209_AL_.jpg",
+                "large": null
+            }
+        },
+        "year": 2004,
+        "category": "Movie",
+        "rating": "G",
+        "isBookmarked": false,
+        "isTrending": false
+    },
+    {
+        "title": "It's a Wonderful Life",
+        "thumbnail": {
+            "trending": {
+                "small": null,
+                "large": null
+            },
+            "regular": {
+                "small": null,
+                "medium": "https://m.media-amazon.com/images/M/MV5BZjc4NDZhZWMtNGEzYS00ZWU2LThlM2ItNTA0YzQ0OTExMTE2XkEyXkFqcGdeQXVyNjUwMzI2NzU@._V1_UY209_CR2,0,140,209_AL_.jpg",
+                "large": null
+            }
+        },
+        "year": 1946,
+        "category": "Movie",
+        "rating": "PG",
+        "isBookmarked": false,
+        "isTrending": false
+    },
+    {
+        "title": "White Christmas",
+        "thumbnail": {
+            "trending": {
+                "small": null,
+                "large": null
+            },
+            "regular": {
+                "small": null,
+                "medium": "https://m.media-amazon.com/images/M/MV5BYjI0ZTk0ZjQtZTMzOS00NDdmLTk0YzUtZTQ4NGRkNWFhZTkxXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX140_CR0,0,140,209_AL_.jpg",
+                "large": null
+            }
+        },
+        "year": 1954,
+        "category": "Movie",
+        "rating": "Not Rated",
+        "isBookmarked": false,
+        "isTrending": false
+    },
+    {
+        "title": "Scrooged",
+        "thumbnail": {
+            "trending": {
+                "small": null,
+                "large": null
+            },
+            "regular": {
+                "small": null,
+                "medium": "https://m.media-amazon.com/images/M/MV5BZDExMjFhYTItNmFkNC00YzQ0LWE1OGMtN2ExNGFkNWMxMjA4XkEyXkFqcGdeQXVyNjc5NjEzNA@@._V1_UX140_CR0,0,140,209_AL_.jpg",
+                "large": null
+            }
+        },
+        "year": 1988,
+        "category": "Movie",
+        "rating": "PG-13",
+        "isBookmarked": false,
+        "isTrending": false
+    },
+    {
+        "title": "Spirited",
+        "thumbnail": {
+            "trending": {
+                "small": null,
+                "large": null
+            },
+            "regular": {
+                "small": null,
+                "medium": "https://m.media-amazon.com/images/M/MV5BY2RlZGFmYjAtNGZiMi00YjQ5LWE0ZmQtZmIyM2VmMjRhMTJlXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_UY209_CR0,0,140,209_AL_.jpg",
+                "large": null
+            }
+        },
+        "year": 2022,
+        "category": "Movie",
+        "rating": "PG-13",
+        "isBookmarked": false,
+        "isTrending": true
+    },
+    {
+        "title": "Miracle on 34th Street",
+        "thumbnail": {
+            "trending": {
+                "small": null,
+                "large": null
+            },
+            "regular": {
+                "small": null,
+                "medium": "https://m.media-amazon.com/images/M/MV5BZjk3M2UyN2YtNmQ1MS00MWI3LWEzNGMtYTRkM2E5MWNjOWJjL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY209_CR0,0,140,209_AL_.jpg",
+                "large": null
+            }
+        },
+        "year": 1994,
+        "category": "Movie",
+        "rating": "PG",
+        "isBookmarked": false,
+        "isTrending": false
+    },
+    {
+        "title": "Jingle All the Way",
+        "thumbnail": {
+            "trending": {
+                "small": null,
+                "large": null
+            },
+            "regular": {
+                "small": null,
+                "medium": "https://m.media-amazon.com/images/M/MV5BMmJlYzViNzctMjQ1Ni00ZWQ4LThkN2YtMzI2ZGU5Nzk0NTAyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX140_CR0,0,140,209_AL_.jpg",
+                "large": null
+            }
+        },
+        "year": 1996,
+        "category": "Movie",
+        "rating": "PG",
+        "isBookmarked": false,
+        "isTrending": false
+    },
+    {
+        "title": "Klaus",
+        "thumbnail": {
+            "trending": {
+                "small": null,
+                "large": null
+            },
+            "regular": {
+                "small": null,
+                "medium": "https://m.media-amazon.com/images/M/MV5BMWYwOThjM2ItZGYxNy00NTQwLWFlZWEtM2MzM2Q5MmY3NDU5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UY209_CR0,0,140,209_AL_.jpg",
+                "large": null
+            }
+        },
+        "year": 2019,
+        "category": "Movie",
+        "rating": "PG",
+        "isBookmarked": false,
+        "isTrending": true
+    },
+    {
+        "title": "A Christmas Carol",
+        "thumbnail": {
+            "trending": {
+                "small": null,
+                "large": null
+            },
+            "regular": {
+                "small": null,
+                "medium": "https://m.media-amazon.com/images/M/MV5BMTM1MTI5ODU4MV5BMl5BanBnXkFtZTcwNTYyNTU4Mg@@._V1_UY209_CR0,0,140,209_AL_.jpg",
+                "large": null
+            }
+        },
+        "year": 2009,
+        "category": "Movie",
+        "rating": "PG",
+        "isBookmarked": false,
+        "isTrending": false
+    },
+    {
+        "title": "Last Christmas",
+        "thumbnail": {
+            "trending": {
+                "small": null,
+                "large": null
+            },
+            "regular": {
+                "small": null,
+                "medium": "https://m.media-amazon.com/images/M/MV5BNTQ4ZmY0NjgtYzVhNy00NzhiLTk3YTYtNzM1MTdjM2VhZDA3XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UY209_CR0,0,140,209_AL_.jpg",
+                "large": null
+            }
+        },
+        "year": 2019,
+        "category": "Movie",
+        "rating": "PG-13",
+        "isBookmarked": false,
+        "isTrending": true
+    },
+    {
+        "title": "Christmas with the Kranks",
+        "thumbnail": {
+            "trending": {
+                "small": null,
+                "large": null
+            },
+            "regular": {
+                "small": null,
+                "medium": "https://m.media-amazon.com/images/M/MV5BMTQxMDMxODEwNF5BMl5BanBnXkFtZTYwNzM4OTc2._V1_UY209_CR0,0,140,209_AL_.jpg",
+                "large": null
+            }
+        },
+        "year": 2004,
+        "category": "Movie",
+        "rating": "PG",
+        "isBookmarked": false,
+        "isTrending": false
+    },
+    {
+        "title": "The Santa Clause 2",
+        "thumbnail": {
+            "trending": {
+                "small": null,
+                "large": null
+            },
+            "regular": {
+                "small": null,
+                "medium": "https://m.media-amazon.com/images/M/MV5BNjU0Njk5MTA2Nl5BMl5BanBnXkFtZTYwODkzMzQ3._V1_UY209_CR0,0,140,209_AL_.jpg",
+                "large": null
+            }
+        },
+        "year": 2002,
+        "category": "Movie",
+        "rating": "G",
+        "isBookmarked": false,
+        "isTrending": false
+    },
+    {
+        "title": "Miracle on 34th Street",
+        "thumbnail": {
+            "trending": {
+                "small": null,
+                "large": null
+            },
+            "regular": {
+                "small": null,
+                "medium": "https://m.media-amazon.com/images/M/MV5BNjRkOGEwYTUtY2E5Yy00ODg4LTk2ZWItY2IyMzUxOGVhMTM1XkEyXkFqcGdeQXVyNDk0MDg4NDk@._V1_UX140_CR0,0,140,209_AL_.jpg",
+                "large": null
+            }
+        },
+        "year": 1947,
+        "category": "Movie",
+        "rating": "Not Rated",
+        "isBookmarked": false,
+        "isTrending": false
+    },
+    {
+        "title": "Four Christmases",
+        "thumbnail": {
+            "trending": {
+                "small": null,
+                "large": null
+            },
+            "regular": {
+                "small": null,
+                "medium": "https://m.media-amazon.com/images/M/MV5BMTQ2MjA0NDAwNF5BMl5BanBnXkFtZTcwOTU4MTM5MQ@@._V1_UY209_CR0,0,140,209_AL_.jpg",
+                "large": null
+            }
+        },
+        "year": 2008,
+        "category": "Movie",
+        "rating": "PG-13",
+        "isBookmarked": false,
+        "isTrending": false
+    },
+    {
+        "title": "Home Alone 3",
+        "thumbnail": {
+            "trending": {
+                "small": null,
+                "large": null
+            },
+            "regular": {
+                "small": null,
+                "medium": "https://m.media-amazon.com/images/M/MV5BZTJhYjVhOWMtYTUyOS00NWM0LThjNzYtZWYxOTkwN2FhODg2XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX140_CR0,0,140,209_AL_.jpg",
+                "large": null
+            }
+        },
+        "year": 1997,
+        "category": "Movie",
+        "rating": "PG",
+        "isBookmarked": false,
+        "isTrending": false
+    },
+    {
+        "title": "The Muppet Christmas Carol",
+        "thumbnail": {
+            "trending": {
+                "small": null,
+                "large": null
+            },
+            "regular": {
+                "small": null,
+                "medium": "https://m.media-amazon.com/images/M/MV5BN2Y0NWRkNWItZWEwNi00MDNlLWJmZDYtNTkwYzI5Nzg4MjVjXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY209_CR0,0,140,209_AL_.jpg",
+                "large": null
+            }
+        },
+        "year": 1992,
+        "category": "Movie",
+        "rating": "G",
+        "isBookmarked": false,
+        "isTrending": false
+    },
+    {
+        "title": "Office Christmas Party",
+        "thumbnail": {
+            "trending": {
+                "small": null,
+                "large": null
+            },
+            "regular": {
+                "small": null,
+                "medium": "https://m.media-amazon.com/images/M/MV5BYzgyZjE1MjUtYjFjZS00NzMzLWFmNWMtMDJjNGY0ZTgwYjc3XkEyXkFqcGdeQXVyMjQwMjk0NjI@._V1_UY209_CR2,0,140,209_AL_.jpg",
+                "large": null
+            }
+        },
+        "year": 2016,
+        "category": "Movie",
+        "rating": "R",
+        "isBookmarked": false,
+        "isTrending": false
+    },
+    {
+        "title": "Feast of the Seven Fishes",
+        "thumbnail": {
+            "trending": {
+                "small": null,
+                "large": null
+            },
+            "regular": {
+                "small": null,
+                "medium": "https://m.media-amazon.com/images/M/MV5BY2ZiYTA3OGMtMjBkOS00MDczLTkzODUtNDA0NGY1ZGM3M2JjXkEyXkFqcGdeQXVyNDExMzMxNjE@._V1_UX140_CR0,0,140,209_AL_.jpg",
+                "large": null
+            }
+        },
+        "year": 2019,
+        "category": "Movie",
+        "rating": "",
+        "isBookmarked": false,
+        "isTrending": false
+    },
+    {
+        "title": "Bad Santa",
+        "thumbnail": {
+            "trending": {
+                "small": null,
+                "large": null
+            },
+            "regular": {
+                "small": null,
+                "medium": "https://m.media-amazon.com/images/M/MV5BMjA4Njg1MDcwN15BMl5BanBnXkFtZTYwMzAxNjM3._V1_UY209_CR0,0,140,209_AL_.jpg",
+                "large": null
+            }
+        },
+        "year": 2003,
+        "category": "Movie",
+        "rating": "R",
+        "isBookmarked": false,
+        "isTrending": false
+    },
+    {
+        "title": "The Christmas Chronicles",
+        "thumbnail": {
+            "trending": {
+                "small": null,
+                "large": null
+            },
+            "regular": {
+                "small": null,
+                "medium": "https://m.media-amazon.com/images/M/MV5BNTA3NjU3OTM2MV5BMl5BanBnXkFtZTgwNjQ2MzE1NjM@._V1_UY209_CR0,0,140,209_AL_.jpg",
+                "large": null
+            }
+        },
+        "year": 2018,
+        "category": "Movie",
+        "rating": "PG",
+        "isBookmarked": false,
+        "isTrending": false
+    },
+    {
+        "title": "The Nightmare Before Christmas",
+        "thumbnail": {
+            "trending": {
+                "small": null,
+                "large": null
+            },
+            "regular": {
+                "small": null,
+                "medium": "https://m.media-amazon.com/images/M/MV5BNWE4OTNiM2ItMjY4Ni00ZTViLWFiZmEtZGEyNGY2ZmNlMzIyXkEyXkFqcGdeQXVyMDU5NDcxNw@@._V1_UX140_CR0,0,140,209_AL_.jpg",
+                "large": null
+            }
+        },
+        "year": 1993,
+        "category": "Movie",
+        "rating": "PG",
+        "isBookmarked": false,
+        "isTrending": false
+    },
+    {
+        "title": "Deck the Halls",
+        "thumbnail": {
+            "trending": {
+                "small": null,
+                "large": null
+            },
+            "regular": {
+                "small": null,
+                "medium": "https://m.media-amazon.com/images/M/MV5BMTIzNjA4OTM0OV5BMl5BanBnXkFtZTcwMDgwODkzMQ@@._V1_UY209_CR0,0,140,209_AL_.jpg",
+                "large": null
+            }
+        },
+        "year": 2006,
+        "category": "Movie",
+        "rating": "PG",
+        "isBookmarked": false,
+        "isTrending": false
+    },
+    {
+        "title": "A Christmas Story Christmas",
+        "thumbnail": {
+            "trending": {
+                "small": null,
+                "large": null
+            },
+            "regular": {
+                "small": null,
+                "medium": "https://m.media-amazon.com/images/M/MV5BMjliZjM5MWMtMzcyYi00Y2ZiLTliOGMtNGNjMjE1YWIwZTkyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UY209_CR0,0,140,209_AL_.jpg",
+                "large": null
+            }
+        },
+        "year": 2022,
+        "category": "Movie",
+        "rating": "PG",
+        "isBookmarked": false,
+        "isTrending": false
+    },
+    {
+        "title": "Santa's Slay",
+        "thumbnail": {
+            "trending": {
+                "small": null,
+                "large": null
+            },
+            "regular": {
+                "small": null,
+                "medium": "https://m.media-amazon.com/images/M/MV5BMTU1NTY0MzMyMl5BMl5BanBnXkFtZTcwNzU0OTEzMQ@@._V1_UY209_CR2,0,140,209_AL_.jpg",
+                "large": null
+            }
+        },
+        "year": 2005,
+        "category": "Movie",
+        "rating": "R",
+        "isBookmarked": false,
+        "isTrending": false
+    },
+    {
+        "title": "Rudolph the Red-Nosed Reindeer",
+        "thumbnail": {
+            "trending": {
+                "small": null,
+                "large": null
+            },
+            "regular": {
+                "small": null,
+                "medium": "https://m.media-amazon.com/images/M/MV5BYjdjZjkyYjUtOWJiZC00ZTE2LTk4MDktZjliOTk5ZDk5ZTZhXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UY209_CR3,0,140,209_AL_.jpg",
+                "large": null
+            }
+        },
+        "year": 1964,
+        "category": "Movie",
+        "rating": "TV-G",
+        "isBookmarked": false,
+        "isTrending": false
+    },
+    {
+        "title": "How the Grinch Stole Christmas!",
+        "thumbnail": {
+            "trending": {
+                "small": null,
+                "large": null
+            },
+            "regular": {
+                "small": null,
+                "medium": "https://m.media-amazon.com/images/M/MV5BODE3NTQzMWEtYTVkZS00YjNlLTg0ZGQtMDdmYzYyMmVlNWQ2XkEyXkFqcGdeQXVyMTA0MTM5NjI2._V1_UX140_CR0,0,140,209_AL_.jpg",
+                "large": null
+            }
+        },
+        "year": 1966,
+        "category": "Movie",
+        "rating": "Not Rated",
+        "isBookmarked": false,
+        "isTrending": false
+    },
+    {
+        "title": "The Naughty Nine",
+        "thumbnail": {
+            "trending": {
+                "small": null,
+                "large": null
+            },
+            "regular": {
+                "small": null,
+                "medium": "https://m.media-amazon.com/images/M/MV5BZmRjNWFlYWYtYjViNC00NTU0LTllZjUtYjBjZWQzNmJmYjliXkEyXkFqcGdeQXVyMjgzMzUxNA@@._V1_UY209_CR13,0,140,209_AL_.jpg",
+                "large": null
+            }
+        },
+        "year": 2023,
+        "category": "Movie",
+        "rating": "TV-PG",
+        "isBookmarked": false,
+        "isTrending": false
+    },
+    {
+        "title": "A Christmas Carol",
+        "thumbnail": {
+            "trending": {
+                "small": null,
+                "large": null
+            },
+            "regular": {
+                "small": null,
+                "medium": "https://m.media-amazon.com/images/M/MV5BMmRjZGUyMzYtMjMyYy00ZTFkLWEyZjktYjA5NjY4MjgzZTcxXkEyXkFqcGdeQXVyNjc5NjEzNA@@._V1_UX140_CR0,0,140,209_AL_.jpg",
+                "large": null
+            }
+        },
+        "year": 1984,
+        "category": "Movie",
+        "rating": "PG",
+        "isBookmarked": false,
+        "isTrending": false
+    },
+    {
+        "title": "Little Women",
+        "thumbnail": {
+            "trending": {
+                "small": null,
+                "large": null
+            },
+            "regular": {
+                "small": null,
+                "medium": "https://m.media-amazon.com/images/M/MV5BY2QzYTQyYzItMzAwYi00YjZlLThjNTUtNzMyMDdkYzJiNWM4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UY209_CR0,0,140,209_AL_.jpg",
+                "large": null
+            }
+        },
+        "year": 2019,
+        "category": "Movie",
+        "rating": "PG",
+        "isBookmarked": false,
+        "isTrending": false
+    },
+    {
+        "title": "Fred Claus",
+        "thumbnail": {
+            "trending": {
+                "small": null,
+                "large": null
+            },
+            "regular": {
+                "small": null,
+                "medium": "https://m.media-amazon.com/images/M/MV5BMTY0NDEwNzc0N15BMl5BanBnXkFtZTcwNjgxNzUzMw@@._V1_UY209_CR0,0,140,209_AL_.jpg",
+                "large": null
+            }
+        },
+        "year": 2007,
+        "category": "Movie",
+        "rating": "PG",
+        "isBookmarked": false,
+        "isTrending": false
+    },
+    {
+        "title": "The Santa Clause 3: The Escape Clause",
+        "thumbnail": {
+            "trending": {
+                "small": null,
+                "large": null
+            },
+            "regular": {
+                "small": null,
+                "medium": "https://m.media-amazon.com/images/M/MV5BMTI4ODQ4MzgzMl5BMl5BanBnXkFtZTcwODc5NTUzMQ@@._V1_UY209_CR0,0,140,209_AL_.jpg",
+                "large": null
+            }
+        },
+        "year": 2006,
+        "category": "Movie",
+        "rating": "G",
+        "isBookmarked": false,
+        "isTrending": false
+    },
+    {
+        "title": "Jack Frost",
+        "thumbnail": {
+            "trending": {
+                "small": null,
+                "large": null
+            },
+            "regular": {
+                "small": null,
+                "medium": "https://m.media-amazon.com/images/M/MV5BODNmYTQ2YWUtZjMxOS00NzM0LTgyZDQtM2ZmNDVjODlhMzdlXkEyXkFqcGdeQXVyODk1MzE0Mzk@._V1_UY209_CR1,0,140,209_AL_.jpg",
+                "large": null
+            }
+        },
+        "year": 1998,
+        "category": "Movie",
+        "rating": "PG",
+        "isBookmarked": false,
+        "isTrending": false
+    },
+    {
+        "title": "Holidate",
+        "thumbnail": {
+            "trending": {
+                "small": null,
+                "large": null
+            },
+            "regular": {
+                "small": null,
+                "medium": "https://m.media-amazon.com/images/M/MV5BYWVmYTFjODItOTY2Ni00NDhhLTk1ZDYtMzBmOGFhZTMyY2Q0XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_UY209_CR0,0,140,209_AL_.jpg",
+                "large": null
+            }
+        },
+        "year": 2020,
+        "category": "Movie",
+        "rating": "TV-MA",
+        "isBookmarked": false,
+        "isTrending": false
+    },
+    {
+        "title": "Black Christmas",
+        "thumbnail": {
+            "trending": {
+                "small": null,
+                "large": null
+            },
+            "regular": {
+                "small": null,
+                "medium": "https://m.media-amazon.com/images/M/MV5BYTllYWY5ZDYtZjExYy00ZTY5LTk2OWEtMTQ3NTdlNzE5NjcyXkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_UX140_CR0,0,140,209_AL_.jpg",
+                "large": null
+            }
+        },
+        "year": 1974,
+        "category": "Movie",
+        "rating": "R",
+        "isBookmarked": false,
+        "isTrending": false
+    },
+    {
+        "title": "Santa Claus",
+        "thumbnail": {
+            "trending": {
+                "small": null,
+                "large": null
+            },
+            "regular": {
+                "small": null,
+                "medium": "https://m.media-amazon.com/images/M/MV5BZDc1OGVkMmQtYTU0NC00ZTc4LWIyNjItM2IzYzcwNTA1ZmJmXkEyXkFqcGdeQXVyMjY3MjUzNDk@._V1_UY209_CR0,0,140,209_AL_.jpg",
+                "large": null
+            }
+        },
+        "year": 1985,
+        "category": "Movie",
+        "rating": "PG",
+        "isBookmarked": false,
+        "isTrending": false
+    },
+    {
+        "title": "Love Hard",
+        "thumbnail": {
+            "trending": {
+                "small": null,
+                "large": null
+            },
+            "regular": {
+                "small": null,
+                "medium": "https://m.media-amazon.com/images/M/MV5BODIwNDIxN2YtMWU3ZS00MjU5LWIxMzctNmY1NDg5NDgwYmM0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UY209_CR0,0,140,209_AL_.jpg",
+                "large": null
+            }
+        },
+        "year": 2021,
+        "category": "Movie",
+        "rating": "TV-MA",
+        "isBookmarked": false,
+        "isTrending": false
+    },
+    {
+        "title": "Arthur Christmas",
+        "thumbnail": {
+            "trending": {
+                "small": null,
+                "large": null
+            },
+            "regular": {
+                "small": null,
+                "medium": "https://m.media-amazon.com/images/M/MV5BNTczMjMwMTE2OV5BMl5BanBnXkFtZTcwNDU0NTAwNw@@._V1_UY209_CR0,0,140,209_AL_.jpg",
+                "large": null
+            }
+        },
+        "year": 2011,
+        "category": "Movie",
+        "rating": "PG",
+        "isBookmarked": false,
+        "isTrending": false
+    },
+    {
+        "title": "Holiday Inn",
+        "thumbnail": {
+            "trending": {
+                "small": null,
+                "large": null
+            },
+            "regular": {
+                "small": null,
+                "medium": "https://m.media-amazon.com/images/M/MV5BMTUyODU0OTUwMF5BMl5BanBnXkFtZTgwMTE4NTQzMjE@._V1_UX140_CR0,0,140,209_AL_.jpg",
+                "large": null
+            }
+        },
+        "year": 1942,
+        "category": "Movie",
+        "rating": "Passed",
+        "isBookmarked": false,
+        "isTrending": false
+    },
+    {
+        "title": "Catering Christmas",
+        "thumbnail": {
+            "trending": {
+                "small": null,
+                "large": null
+            },
+            "regular": {
+                "small": null,
+                "medium": "https://m.media-amazon.com/images/M/MV5BMWNhYWU3YmItOWUxNi00YzZjLWIyMjYtYjkwZDA5NGNiZTNhXkEyXkFqcGdeQXVyMjAwNzczNTU@._V1_UX140_CR0,0,140,209_AL_.jpg",
+                "large": null
+            }
+        },
+        "year": 2022,
+        "category": "Movie",
+        "rating": "",
+        "isBookmarked": false,
+        "isTrending": false
+    },
+    {
+        "title": "Santa Claus Is Comin' to Town",
+        "thumbnail": {
+            "trending": {
+                "small": null,
+                "large": null
+            },
+            "regular": {
+                "small": null,
+                "medium": "https://m.media-amazon.com/images/M/MV5BMTc2NjMxMTU2Ml5BMl5BanBnXkFtZTcwNjg4NTYyMQ@@._V1_UY209_CR2,0,140,209_AL_.jpg",
+                "large": null
+            }
+        },
+        "year": 1970,
+        "category": "Movie",
+        "rating": "TV-G",
+        "isBookmarked": false,
+        "isTrending": false
+    },
+    {
+        "title": "A Merry Scottish Christmas",
+        "thumbnail": {
+            "trending": {
+                "small": null,
+                "large": null
+            },
+            "regular": {
+                "small": null,
+                "medium": "https://m.media-amazon.com/images/M/MV5BZWE5YzBlZTgtYjA5MC00MGI5LWI2YjctYzljOTQyNWI3ZDUyXkEyXkFqcGdeQXVyMjkwMjY1MjI@._V1_UX140_CR0,0,140,209_AL_.jpg",
+                "large": null
+            }
+        },
+        "year": 2023,
+        "category": "Movie",
+        "rating": "TV-G",
+        "isBookmarked": false,
+        "isTrending": false
+    },
+    {
+        "title": "Christmas in Connecticut",
+        "thumbnail": {
+            "trending": {
+                "small": null,
+                "large": null
+            },
+            "regular": {
+                "small": null,
+                "medium": "https://m.media-amazon.com/images/M/MV5BNTRmYzUyMjctMWM5ZS00NTExLTgzMjctN2MwZjA2OWJjMjIyXkEyXkFqcGdeQXVyNjc0MzMzNjA@._V1_UX140_CR0,0,140,209_AL_.jpg",
+                "large": null
+            }
+        },
+        "year": 1945,
+        "category": "Movie",
+        "rating": "Approved",
+        "isBookmarked": false,
+        "isTrending": false
+    },
+    {
+        "title": "Happiest Season",
+        "thumbnail": {
+            "trending": {
+                "small": null,
+                "large": null
+            },
+            "regular": {
+                "small": null,
+                "medium": "https://m.media-amazon.com/images/M/MV5BZDgyZDNiZGEtYmQ4NC00NzU5LTllODQtNjIwMGY2NDYyNGQwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UY209_CR0,0,140,209_AL_.jpg",
+                "large": null
+            }
+        },
+        "year": 2020,
+        "category": "Movie",
+        "rating": "PG-13",
+        "isBookmarked": false,
+        "isTrending": false
+    },
+    {
+        "title": "The Man Who Invented Christmas",
+        "thumbnail": {
+            "trending": {
+                "small": null,
+                "large": null
+            },
+            "regular": {
+                "small": null,
+                "medium": "https://m.media-amazon.com/images/M/MV5BZDRjZWZlNjAtYjM1ZS00ZjAyLWE4MmEtNWVmNzZiNTYzOThjXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY209_CR0,0,140,209_AL_.jpg",
+                "large": null
+            }
+        },
+        "year": 2017,
+        "category": "Movie",
+        "rating": "PG",
+        "isBookmarked": false,
+        "isTrending": false
+    },
+    {
+        "title": "The Christmas Chronicles: Part Two",
+        "thumbnail": {
+            "trending": {
+                "small": null,
+                "large": null
+            },
+            "regular": {
+                "small": null,
+                "medium": "https://m.media-amazon.com/images/M/MV5BMGJiZDc1OWMtNzMwMC00NzM0LTljMDgtZGJjODVhZDMzMmJjXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_UY209_CR0,0,140,209_AL_.jpg",
+                "large": null
+            }
+        },
+        "year": 2020,
+        "category": "Movie",
+        "rating": "PG",
+        "isBookmarked": false,
+        "isTrending": false
+    },
+    {
+        "title": "8-Bit Christmas",
+        "thumbnail": {
+            "trending": {
+                "small": null,
+                "large": null
+            },
+            "regular": {
+                "small": null,
+                "medium": "https://m.media-amazon.com/images/M/MV5BNDFkMDMxN2MtOThlZi00OWExLWFlMGMtYzI3NjhhNzFlODkzXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_UY209_CR0,0,140,209_AL_.jpg",
+                "large": null
+            }
+        },
+        "year": 2021,
+        "category": "Movie",
+        "rating": "PG",
+        "isBookmarked": false,
+        "isTrending": false
+    },
+    {
+        "title": "A Christmas Carol",
+        "thumbnail": {
+            "trending": {
+                "small": null,
+                "large": null
+            },
+            "regular": {
+                "small": null,
+                "medium": "https://m.media-amazon.com/images/M/MV5BZTM0MWMyYzgtMTJiMS00MjNiLWJhN2EtOGRiYmRkMGEwMzkwXkEyXkFqcGdeQXVyNDk0MDg4NDk@._V1_UX140_CR0,0,140,209_AL_.jpg",
+                "large": null
+            }
+        },
+        "year": 1951,
+        "category": "Movie",
+        "rating": "TV-PG",
+        "isBookmarked": false,
+        "isTrending": false
+    },
+    {
+        "title": "Meet Me in St. Louis",
+        "thumbnail": {
+            "trending": {
+                "small": null,
+                "large": null
+            },
+            "regular": {
+                "small": null,
+                "medium": "https://m.media-amazon.com/images/M/MV5BMzkwNzE4MjEtZDcxNi00YmE5LWFmZmQtZGY1N2I2MDBkMmEzXkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_UX140_CR0,0,140,209_AL_.jpg",
+                "large": null
+            }
+        },
+        "year": 1944,
+        "category": "Movie",
+        "rating": "Passed",
+        "isBookmarked": false,
+        "isTrending": false
+    },
+    {
+        "title": "The Nutcracker and the Four Realms",
+        "thumbnail": {
+            "trending": {
+                "small": null,
+                "large": null
+            },
+            "regular": {
+                "small": null,
+                "medium": "https://m.media-amazon.com/images/M/MV5BOTg1NDI1MjEyMl5BMl5BanBnXkFtZTgwOTA5MTgwNjM@._V1_UY209_CR0,0,140,209_AL_.jpg",
+                "large": null
+            }
+        },
+        "year": 2018,
+        "category": "Movie",
+        "rating": "PG",
+        "isBookmarked": false,
+        "isTrending": false
+    },
+    {
+        "title": "Shazam!",
+        "thumbnail": {
+            "trending": {
+                "small": null,
+                "large": null
+            },
+            "regular": {
+                "small": null,
+                "medium": "https://m.media-amazon.com/images/M/MV5BOWZhZjE4NGQtODg5Ni00MjQ1LWJmMzAtNzQ2N2M1NzYzMDJkXkEyXkFqcGdeQXVyMjMwNDgzNjc@._V1_UY209_CR0,0,140,209_AL_.jpg",
+                "large": null
+            }
+        },
+        "year": 2019,
+        "category": "Movie",
+        "rating": "PG-13",
+        "isBookmarked": false,
+        "isTrending": false
+    },
+    {
+        "title": "Home Sweet Home Alone",
+        "thumbnail": {
+            "trending": {
+                "small": null,
+                "large": null
+            },
+            "regular": {
+                "small": null,
+                "medium": "https://m.media-amazon.com/images/M/MV5BMDlkMzZiM2EtZDMxZC00ZWUwLTliMDMtMGMzMzE3NTEzMThiXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_UY209_CR13,0,140,209_AL_.jpg",
+                "large": null
+            }
+        },
+        "year": 2021,
+        "category": "Movie",
+        "rating": "PG",
+        "isBookmarked": false,
+        "isTrending": false
+    },
+    {
+        "title": "A Bad Moms Christmas",
+        "thumbnail": {
+            "trending": {
+                "small": null,
+                "large": null
+            },
+            "regular": {
+                "small": null,
+                "medium": "https://m.media-amazon.com/images/M/MV5BMTUwNTA4MDMxNl5BMl5BanBnXkFtZTgwMjE4NjQ0MzI@._V1_UY209_CR0,0,140,209_AL_.jpg",
+                "large": null
+            }
+        },
+        "year": 2017,
+        "category": "Movie",
+        "rating": "R",
+        "isBookmarked": false,
+        "isTrending": false
+    },
+    {
+        "title": "Surviving Christmas",
+        "thumbnail": {
+            "trending": {
+                "small": null,
+                "large": null
+            },
+            "regular": {
+                "small": null,
+                "medium": "https://m.media-amazon.com/images/M/MV5BMTcwMTI4MTY3Ml5BMl5BanBnXkFtZTcwOTUzMjcyMQ@@._V1_UY209_CR1,0,140,209_AL_.jpg",
+                "large": null
+            }
+        },
+        "year": 2004,
+        "category": "Movie",
+        "rating": "PG-13",
+        "isBookmarked": false,
+        "isTrending": false
+    },
+    {
+        "title": "A Christmas Carol",
+        "thumbnail": {
+            "trending": {
+                "small": null,
+                "large": null
+            },
+            "regular": {
+                "small": null,
+                "medium": "https://m.media-amazon.com/images/M/MV5BZTBmZTM1YzgtNWM1NC00ODAyLWJmMzktZDFhYmZlYzMyMGYyXkEyXkFqcGdeQXVyNjc5NjEzNA@@._V1_UY209_CR8,0,140,209_AL_.jpg",
+                "large": null
+            }
+        },
+        "year": 1999,
+        "category": "Movie",
+        "rating": "TV-PG",
+        "isBookmarked": false,
+        "isTrending": false
+    },
+    {
+        "title": "The Year Without a Santa Claus",
+        "thumbnail": {
+            "trending": {
+                "small": null,
+                "large": null
+            },
+            "regular": {
+                "small": null,
+                "medium": "https://m.media-amazon.com/images/M/MV5BMzk5OGFmMmQtNGVhZC00NGQ5LWE2M2MtZmRlYzZiNjYwMzM4XkEyXkFqcGdeQXVyNjc5NjEzNA@@._V1_UX140_CR0,0,140,209_AL_.jpg",
+                "large": null
+            }
+        },
+        "year": 1974,
+        "category": "Movie",
+        "rating": "TV-G",
+        "isBookmarked": false,
+        "isTrending": false
+    },
+    {
+        "title": "Nativity!",
+        "thumbnail": {
+            "trending": {
+                "small": null,
+                "large": null
+            },
+            "regular": {
+                "small": null,
+                "medium": "https://m.media-amazon.com/images/M/MV5BNmFjNTIxNzMtYzRiMi00ZTY4LWI4ZTktZjM3ZDUwZDViNzZiXkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_UY209_CR4,0,140,209_AL_.jpg",
+                "large": null
+            }
+        },
+        "year": 2009,
+        "category": "Movie",
+        "rating": "PG",
+        "isBookmarked": false,
+        "isTrending": false
+    },
+    {
+        "title": "Batman Returns",
+        "thumbnail": {
+            "trending": {
+                "small": null,
+                "large": null
+            },
+            "regular": {
+                "small": null,
+                "medium": "https://m.media-amazon.com/images/M/MV5BOGZmYzVkMmItM2NiOS00MDI3LWI4ZWQtMTg0YWZkODRkMmViXkEyXkFqcGdeQXVyODY0NzcxNw@@._V1_UY209_CR0,0,140,209_AL_.jpg",
+                "large": null
+            }
+        },
+        "year": 1992,
+        "category": "Movie",
+        "rating": "PG-13",
+        "isBookmarked": false,
+        "isTrending": false
+    },
+    {
+        "title": "Edward Scissorhands",
+        "thumbnail": {
+            "trending": {
+                "small": null,
+                "large": null
+            },
+            "regular": {
+                "small": null,
+                "medium": "https://m.media-amazon.com/images/M/MV5BMWY2MGRkNjgtZDczNi00YWJjLTkwNmUtMTY0NTE5ZDhkZjgwXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_UY209_CR0,0,140,209_AL_.jpg",
+                "large": null
+            }
+        },
+        "year": 1990,
+        "category": "Movie",
+        "rating": "PG-13",
+        "isBookmarked": false,
+        "isTrending": false
+    },
+    {
+        "title": "This Is Christmas",
+        "thumbnail": {
+            "trending": {
+                "small": null,
+                "large": null
+            },
+            "regular": {
+                "small": null,
+                "medium": "https://m.media-amazon.com/images/M/MV5BYjAzMTg3Y2UtNThkYS00ZGY4LThkODUtOGQ1NmQ2ZDA3NGU2XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY209_CR2,0,140,209_AL_.jpg",
+                "large": null
+            }
+        },
+        "year": 2022,
+        "category": "Movie",
+        "rating": "",
+        "isBookmarked": false,
+        "isTrending": false
+    },
+    {
+        "title": "Serendipity",
+        "thumbnail": {
+            "trending": {
+                "small": null,
+                "large": null
+            },
+            "regular": {
+                "small": null,
+                "medium": "https://m.media-amazon.com/images/M/MV5BMzc3Yjg1MmUtODllMy00MmZkLTgyNDAtZDg0N2I4OWEzZTkxXkEyXkFqcGdeQXVyNTM0NTU5Mg@@._V1_UY209_CR0,0,140,209_AL_.jpg",
+                "large": null
+            }
+        },
+        "year": 2001,
+        "category": "Movie",
+        "rating": "PG-13",
+        "isBookmarked": false,
+        "isTrending": false
+    },
+    {
+        "title": "The Bishop's Wife",
+        "thumbnail": {
+            "trending": {
+                "small": null,
+                "large": null
+            },
+            "regular": {
+                "small": null,
+                "medium": "https://m.media-amazon.com/images/M/MV5BYzgyZjE2OWEtMjU2MS00NDk0LTkyZGEtODRkYzc2NjcxNDQyXkEyXkFqcGdeQXVyNjc5NjEzNA@@._V1_UX140_CR0,0,140,209_AL_.jpg",
+                "large": null
+            }
+        },
+        "year": 1947,
+        "category": "Movie",
+        "rating": "G",
+        "isBookmarked": false,
+        "isTrending": false
+    },
+    {
+        "title": "Frosty the Snowman",
+        "thumbnail": {
+            "trending": {
+                "small": null,
+                "large": null
+            },
+            "regular": {
+                "small": null,
+                "medium": "https://m.media-amazon.com/images/M/MV5BNTBiODU4ZWYtZDUzZi00MGRkLThjNWEtZGMyOWI4YWFhMjk4XkEyXkFqcGdeQXVyNjc5NjEzNA@@._V1_UX140_CR0,0,140,209_AL_.jpg",
+                "large": null
+            }
+        },
+        "year": 1969,
+        "category": "Movie",
+        "rating": "TV-G",
+        "isBookmarked": false,
+        "isTrending": false
+    },
+    {
+        "title": "Just Friends",
+        "thumbnail": {
+            "trending": {
+                "small": null,
+                "large": null
+            },
+            "regular": {
+                "small": null,
+                "medium": "https://m.media-amazon.com/images/M/MV5BMjA0Mzg2NjUzMl5BMl5BanBnXkFtZTcwNDg2ODUzMQ@@._V1_UY209_CR0,0,140,209_AL_.jpg",
+                "large": null
+            }
+        },
+        "year": 2005,
+        "category": "Movie",
+        "rating": "PG-13",
+        "isBookmarked": false,
+        "isTrending": false
+    },
+    {
+        "title": "Time for Her to Come Home for Christmas",
+        "thumbnail": {
+            "trending": {
+                "small": null,
+                "large": null
+            },
+            "regular": {
+                "small": null,
+                "medium": "https://m.media-amazon.com/images/M/MV5BZjJmMTgxZjgtNWVhMS00YjMxLTlhNDQtNzIyM2E2ODU3NGQ2XkEyXkFqcGdeQXVyMjk3MzY3MQ@@._V1_UX140_CR0,0,140,209_AL_.jpg",
+                "large": null
+            }
+        },
+        "year": 2023,
+        "category": "Movie",
+        "rating": "TV-G",
+        "isBookmarked": false,
+        "isTrending": false
+    },
+    {
+        "title": "Silver Linings Playbook",
+        "thumbnail": {
+            "trending": {
+                "small": null,
+                "large": null
+            },
+            "regular": {
+                "small": null,
+                "medium": "https://m.media-amazon.com/images/M/MV5BMTM2MTI5NzA3MF5BMl5BanBnXkFtZTcwODExNTc0OA@@._V1_UY209_CR0,0,140,209_AL_.jpg",
+                "large": null
+            }
+        },
+        "year": 2012,
+        "category": "Movie",
+        "rating": "R",
+        "isBookmarked": false,
+        "isTrending": false
+    },
+    {
+        "title": "Bad Santa 2",
+        "thumbnail": {
+            "trending": {
+                "small": null,
+                "large": null
+            },
+            "regular": {
+                "small": null,
+                "medium": "https://m.media-amazon.com/images/M/MV5BMjM2MjE5Mzc4OF5BMl5BanBnXkFtZTgwMjc3NjEyMDI@._V1_UY209_CR0,0,140,209_AL_.jpg",
+                "large": null
+            }
+        },
+        "year": 2016,
+        "category": "Movie",
+        "rating": "R",
+        "isBookmarked": false,
+        "isTrending": false
+    },
+    {
+        "title": "Scrooge",
+        "thumbnail": {
+            "trending": {
+                "small": null,
+                "large": null
+            },
+            "regular": {
+                "small": null,
+                "medium": "https://m.media-amazon.com/images/M/MV5BMGFmYjgwZDctMzQ5OC00NmMwLTg2OGEtODUzZjU1MDQ4ZjliL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_UX140_CR0,0,140,209_AL_.jpg",
+                "large": null
+            }
+        },
+        "year": 1970,
+        "category": "Movie",
+        "rating": "G",
+        "isBookmarked": false,
+        "isTrending": false
+    },
+    {
+        "title": "Home for Christmas",
+        "thumbnail": {
+            "trending": {
+                "small": null,
+                "large": null
+            },
+            "regular": {
+                "small": null,
+                "medium": "https://m.media-amazon.com/images/M/MV5BZDViY2UzMzktMTViMS00NjY3LWJkYzItYjYxMGMwNzBiNzExXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UY209_CR0,0,140,209_AL_.jpg",
+                "large": null
+            }
+        },
+        "year": 2019,
+        "category": "Movie",
+        "rating": "TV-MA",
+        "isBookmarked": false,
+        "isTrending": false
+    },
+    {
+        "title": "Rise of the Guardians",
+        "thumbnail": {
+            "trending": {
+                "small": null,
+                "large": null
+            },
+            "regular": {
+                "small": null,
+                "medium": "https://m.media-amazon.com/images/M/MV5BMTkzMjgwMDg1M15BMl5BanBnXkFtZTcwMTgzNTI1OA@@._V1_UX140_CR0,0,140,209_AL_.jpg",
+                "large": null
+            }
+        },
+        "year": 2012,
+        "category": "Movie",
+        "rating": "PG",
+        "isBookmarked": false,
+        "isTrending": false
+    },
+    {
+        "title": "The Shop Around the Corner",
+        "thumbnail": {
+            "trending": {
+                "small": null,
+                "large": null
+            },
+            "regular": {
+                "small": null,
+                "medium": "https://m.media-amazon.com/images/M/MV5BZDMxYmIzNDgtYWY1ZS00YmYwLTlhMjYtZTViZTNkY2ExODdiXkEyXkFqcGdeQXVyNjc5NjEzNA@@._V1_UX140_CR0,0,140,209_AL_.jpg",
+                "large": null
+            }
+        },
+        "year": 1940,
+        "category": "Movie",
+        "rating": "Not Rated",
+        "isBookmarked": false,
+        "isTrending": false
+    },
+    {
+        "title": "B&B Merry",
+        "thumbnail": {
+            "trending": {
+                "small": null,
+                "large": null
+            },
+            "regular": {
+                "small": null,
+                "medium": "https://m.media-amazon.com/images/M/MV5BY2U3NmY4NjYtMzkyNy00NGVlLWFmZTYtNzZjMjQzMGMzMGEyXkEyXkFqcGdeQXVyMTU5MjU5MTM@._V1_UX140_CR0,0,140,209_AL_.jpg",
+                "large": null
+            }
+        },
+        "year": 2022,
+        "category": "Movie",
+        "rating": "",
+        "isBookmarked": false,
+        "isTrending": false
+    },
+    {
+        "title": "Remember the Night",
+        "thumbnail": {
+            "trending": {
+                "small": null,
+                "large": null
+            },
+            "regular": {
+                "small": null,
+                "medium": "https://m.media-amazon.com/images/M/MV5BNWU3MDI4ZjUtMDE5NS00OTNhLWJiMjctZGJhN2ZhNjhlOWIwXkEyXkFqcGdeQXVyMzg1ODEwNQ@@._V1_UX140_CR0,0,140,209_AL_.jpg",
+                "large": null
+            }
+        },
+        "year": 1939,
+        "category": "Movie",
+        "rating": "Passed",
+        "isBookmarked": false,
+        "isTrending": false
+    },
+    {
+        "title": "Haul out the Holly: Lit Up",
+        "thumbnail": {
+            "trending": {
+                "small": null,
+                "large": null
+            },
+            "regular": {
+                "small": null,
+                "medium": "https://m.media-amazon.com/images/M/MV5BYTJlOTM0MjYtZjI2YS00MDlmLWE2NGQtZTNjOTExMmFkNDc4XkEyXkFqcGdeQXVyMTU4MzQzNDkx._V1_UX140_CR0,0,140,209_AL_.jpg",
+                "large": null
+            }
+        },
+        "year": 2023,
+        "category": "Movie",
+        "rating": "TV-G",
+        "isBookmarked": false,
+        "isTrending": false
+    },
+    {
+        "title": "Jingle Jangle: A Christmas Journey",
+        "thumbnail": {
+            "trending": {
+                "small": null,
+                "large": null
+            },
+            "regular": {
+                "small": null,
+                "medium": "https://m.media-amazon.com/images/M/MV5BMjVhYjBlMzEtZGMyYS00ODNjLTljYjEtNTdlYjAyNmI1OTZjXkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_UY209_CR13,0,140,209_AL_.jpg",
+                "large": null
+            }
+        },
+        "year": 2020,
+        "category": "Movie",
+        "rating": "PG",
+        "isBookmarked": false,
+        "isTrending": false
+    },
+    {
+        "title": "Dash & Lily",
+        "thumbnail": {
+            "trending": {
+                "small": null,
+                "large": null
+            },
+            "regular": {
+                "small": null,
+                "medium": "https://m.media-amazon.com/images/M/MV5BYmZmN2NlMjQtOTJiYS00ZmI4LWFmMTItNDk1ZDNmYTBkZDZiXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_UY209_CR5,0,140,209_AL_.jpg",
+                "large": null
+            }
+        },
+        "year": 2020,
+        "category": "Movie",
+        "rating": "TV-14",
+        "isBookmarked": false,
+        "isTrending": false
+    },
+    {
+        "title": "The Christmas Train",
+        "thumbnail": {
+            "trending": {
+                "small": null,
+                "large": null
+            },
+            "regular": {
+                "small": null,
+                "medium": "https://m.media-amazon.com/images/M/MV5BY2Y4NzE2NTEtNmIwMy00NjU0LWJiNTQtODIyYjUxZTA5YmU5XkEyXkFqcGdeQXVyNjk2Mjc2OTI@._V1_UX140_CR0,0,140,209_AL_.jpg",
+                "large": null
+            }
+        },
+        "year": 2017,
+        "category": "Movie",
+        "rating": "TV-G",
+        "isBookmarked": false,
+        "isTrending": false
+    },
+    {
+        "title": "I'm Glad It's Christmas",
+        "thumbnail": {
+            "trending": {
+                "small": null,
+                "large": null
+            },
+            "regular": {
+                "small": null,
+                "medium": "https://m.media-amazon.com/images/M/MV5BMzc4YWMwOWQtNDA1NC00NTNjLWI4YjQtNTBiNzVmMzg1ODI1XkEyXkFqcGdeQXVyMTI5NjA0OTA1._V1_UX140_CR0,0,140,209_AL_.jpg",
+                "large": null
+            }
+        },
+        "year": 2022,
+        "category": "Movie",
+        "rating": "",
+        "isBookmarked": false,
+        "isTrending": false
+    },
+    {
+        "title": "A Christmas Carol",
+        "thumbnail": {
+            "trending": {
+                "small": null,
+                "large": null
+            },
+            "regular": {
+                "small": null,
+                "medium": "https://m.media-amazon.com/images/M/MV5BMDhhMzBmNDQtODRkNC00YWYzLWE5ZTMtMmU3YzMxODY5Y2ZlXkEyXkFqcGdeQXVyNjc5NjEzNA@@._V1_UY209_CR0,0,140,209_AL_.jpg",
+                "large": null
+            }
+        },
+        "year": 1938,
+        "category": "Movie",
+        "rating": "Passed",
+        "isBookmarked": false,
+        "isTrending": false
+    },
+    {
+        "title": "A Merry Friggin' Christmas",
+        "thumbnail": {
+            "trending": {
+                "small": null,
+                "large": null
+            },
+            "regular": {
+                "small": null,
+                "medium": "https://m.media-amazon.com/images/M/MV5BMTk1NDQ4MzE4Nl5BMl5BanBnXkFtZTgwNTU2NjY5MjE@._V1_UY209_CR2,0,140,209_AL_.jpg",
+                "large": null
+            }
+        },
+        "year": 2014,
+        "category": "Movie",
+        "rating": "PG-13",
+        "isBookmarked": false,
+        "isTrending": false
+    },
+    {
+        "title": "A Christmas Horror Story",
+        "thumbnail": {
+            "trending": {
+                "small": null,
+                "large": null
+            },
+            "regular": {
+                "small": null,
+                "medium": "https://m.media-amazon.com/images/M/MV5BODg3NTAwNzk5M15BMl5BanBnXkFtZTgwNjA4OTE3MDI@._V1_UY209_CR1,0,140,209_AL_.jpg",
+                "large": null
+            }
+        },
+        "year": 2015,
+        "category": "Movie",
+        "rating": "Not Rated",
+        "isBookmarked": false,
+        "isTrending": false
+    },
+    {
+        "title": "Next Stop, Christmas",
+        "thumbnail": {
+            "trending": {
+                "small": null,
+                "large": null
+            },
+            "regular": {
+                "small": null,
+                "medium": "https://m.media-amazon.com/images/M/MV5BMGI4ZDk3YmMtMmU4Mi00YmQ1LTkwOWYtNDZlZWVlNjY4NGQzXkEyXkFqcGdeQXVyMjkwMjY1MjI@._V1_UX140_CR0,0,140,209_AL_.jpg",
+                "large": null
+            }
+        },
+        "year": 2021,
+        "category": "Movie",
+        "rating": "TV-G",
+        "isBookmarked": false,
+        "isTrending": false
+    },
+    {
+        "title": "Little Women",
+        "thumbnail": {
+            "trending": {
+                "small": null,
+                "large": null
+            },
+            "regular": {
+                "small": null,
+                "medium": "https://m.media-amazon.com/images/M/MV5BNzY2M2IzNWMtMWFkMS00ODk1LWI3NGYtNTBiYTc5MTA0Y2YzXkEyXkFqcGdeQXVyNDA5NTgxNjU@._V1_UY209_CR3,0,140,209_AL_.jpg",
+                "large": null
+            }
+        },
+        "year": 1994,
+        "category": "Movie",
+        "rating": "PG",
+        "isBookmarked": false,
+        "isTrending": false
+    },
+    {
+        "title": "A Merry Christmas Wish",
+        "thumbnail": {
+            "trending": {
+                "small": null,
+                "large": null
+            },
+            "regular": {
+                "small": null,
+                "medium": "https://m.media-amazon.com/images/M/MV5BOWRjYzBjNDUtY2UxMS00ZWZmLThkMjgtM2M3NzY5ZjNhMDg3XkEyXkFqcGdeQXVyMjAwNzczNTU@._V1_UX140_CR0,0,140,209_AL_.jpg",
+                "large": null
+            }
+        },
+        "year": 2022,
+        "category": "Movie",
+        "rating": "",
+        "isBookmarked": false,
+        "isTrending": false
+    },
+    {
+        "title": "Holiday Road",
+        "thumbnail": {
+            "trending": {
+                "small": null,
+                "large": null
+            },
+            "regular": {
+                "small": null,
+                "medium": "https://m.media-amazon.com/images/M/MV5BMTQxYjE5NmEtMDBhNi00MWIyLTg5YzAtYTc4NDA1NWVjZDZhXkEyXkFqcGdeQXVyMTU4MzQzNDkx._V1_UX140_CR0,0,140,209_AL_.jpg",
+                "large": null
+            }
+        },
+        "year": 2023,
+        "category": "Movie",
+        "rating": "",
+        "isBookmarked": false,
+        "isTrending": false
+    }
+]
