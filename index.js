@@ -4,11 +4,17 @@ const fs = require('fs');
 const path = require('path');
 
 const app = express();
-const PORT = 3000;
+const PORT = process.env.PORT || 3000; // Use process.env.PORT for Heroku
 
 // Middleware to parse JSON and enable CORS
 app.use(express.json());
-app.use(cors());
+
+// CORS configuration
+app.use(cors({
+    origin: 'https://canvas.play.rosebud.ai', // Allow requests from this origin
+    methods: ['GET', 'POST', 'PUT', 'DELETE'], // Allowed HTTP methods
+    allowedHeaders: ['Content-Type', 'Authorization'], // Allowed headers
+}));
 
 // Load movies data into memory
 const moviesFilePath = path.join(__dirname, 'data', 'christmas_movies.json');
